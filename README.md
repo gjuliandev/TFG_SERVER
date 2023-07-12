@@ -1,15 +1,15 @@
 # TFG_SERVER
 Aplicación Servidor (API) del Trabajo Fin de Grado de Gabriel Julián 
 
-# INSTALACIÓN
+## INSTALACIÓN
 La aplicación esta desarrollada con NodeJS
 
-## Paso 1
+### Paso 1
 Instalamos las dependencias con el comando 
 ```
 npm i
 ````
-## Paso 2
+### Paso 2
 Una vez instaladas las dependencias, debemos arrancar la aplicación con el comando
 ```
 node dist/index.js
